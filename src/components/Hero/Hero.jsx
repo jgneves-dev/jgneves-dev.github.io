@@ -1,8 +1,6 @@
 import React from 'react';
 import styles from './Hero.module.css';
 import { useTranslation } from 'react-i18next';
-import heroImage from '../../assets/hero-image.png';
-
 
 export const Hero = () => {
   const { t, i18n } = useTranslation();
@@ -56,7 +54,7 @@ export const Hero = () => {
       <div className={styles.heroContent}>
         <img
           loading="lazy"
-          src={heroImage}
+          src={`${import.meta.env.BASE_URL}assets/hero-image.png`}
           className={styles.heroImage}
           alt={t('hero_image_alt')}
         />
