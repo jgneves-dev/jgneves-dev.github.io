@@ -49,7 +49,7 @@ export const Navigation = () => {
     <nav className={`${styles.navigation} container`} role="navigation" aria-label="Main navigation">
       <img
         loading="lazy"
-        src="/assets/logo.png"
+        src="../../assets/logo.png"
         className={styles.logo}
         alt="Portfolio logo"
         onClick={() => scrollToSection('home')}

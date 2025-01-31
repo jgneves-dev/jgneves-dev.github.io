@@ -55,7 +55,7 @@ export const Hero = () => {
       <div className={styles.heroContent}>
         <img
           loading="lazy"
-          src="/assets/hero-image.png"
+          src="../../assets/hero-image.png"
           className={styles.heroImage}
           alt={t('hero_image_alt')}
         />
