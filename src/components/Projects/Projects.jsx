@@ -3,14 +3,14 @@ import styles from './Projects.module.css';
 import { ProjectCard } from './ProjectCard';
 import { useTranslation } from 'react-i18next';
 
-import bubblenautImage from "../src/assets/bn-thumb.png";
-import portfolioImage from "../src/assets/hero-image.png";
-import crazybusImage from "../src/assets/cb-thumb.png";
-import roomsofmysteryImage from "../src/assets/rom-thumb.png";
-import forgottenshrineImage from "../src/assets/fs-thumb.png";
-import byathreadImage from "../src/assets/bat-thumb.png";
-import foolsfrenzyImage from "../src/assets/ff-thumb.png";
-import strayfriendsImage from "../src/assets/sf-thumb.png";
+const bubblenautImage = "/assets/bn-thumb.png";
+const portfolioImage = "/assets/hero-image.png";
+const crazybusImage = "/assets/cb-thumb.png";
+const roomsofmysteryImage = "/assets/rom-thumb.png";
+const forgottenshrineImage = "/assets/fs-thumb.png";
+const byathreadImage = "/assets/bat-thumb.png";
+const foolsfrenzyImage = "/assets/ff-thumb.png";
+const strayfriendsImage = "/assets/sf-thumb.png";
 
 export const Projects = () => {
   const { t } = useTranslation();
