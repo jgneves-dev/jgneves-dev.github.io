@@ -13,7 +13,7 @@ export const Footer = () => {
         
         {/* Left: Logo & Name */}
         <div className={styles.brand}>
-          <img src="../src/assets/logo.png" alt="João Neves Logo" className={styles.logo} />
+          <img src="/assets/logo.png" alt="Joao Neves logo" className={styles.logo} />
           <h2 className={styles.name}>João Neves</h2>
         </div>
 
