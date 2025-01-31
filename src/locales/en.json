@@ -1,0 +1,104 @@
+{
+    "home": "home",
+    "projects": "projects",
+    "about-me": "about-me",
+    "career": "career",
+    "skills": "skills",
+    "footer_desc": "Passionate about software development, game development, and creative problem-solving.",
+    "name_placeholder": "Name",
+    "email_placeholder": "Email",
+    "message_placeholder": "Message",
+    "all_rights_reserved": "All rights reserved.",
+
+    
+    "is_a": "is a",
+    "gameplay": "gameplay",
+    "and": "and",
+    "AI": "AI",
+    "programmer_comma_a": "programmer, a",
+    "web": "web",
+    "designer_and_a": "designer and a",
+    "front-end": "front-end",
+    "developer": "developer",
+    "hero_image_alt": "Hero illustration representing development and design",
+  
+    "contact_me": "contact-me",
+    "status": "open for new opportunities",
+    "view_more": "view more",
+    "submit": "submit",
+    "contact_title": "let's work together",
+    "contact_desc": "I am currently interested in any job offer or opportunity to collaborate. Feel free to reach out!",
+    
+    "about_p1": "As an undergraduate in Games and Multimedia at Polytechnic of Leiria, I am passionate about creating engaging and interactive web applications and games.",
+    "about_p2": "I have completed a professional higher education course in Web Development and Multimedia, where I learned how to use various tools and technologies, such as Bootstrapping, Weebly, HTML, CSS, JavaScript, and PHP.",
+    "about_p3": "I have also developed some projects that showcase my skills and creativity in web and videogame development. I am eager to apply my knowledge and competencies in real-world settings, and to collaborate with other professionals and experts in the field. I am currently very interested in AI programming in videogames.",
+    "about_p4": "I am always willing to learn new things and to challenge myself. My goal is to become a proficient and versatile game developer and multimedia specialist, who can contribute to the innovation and excellence of the industry.",
+    
+    "bubblenaut": "A 2D platformer game built for the 48-hour 2025 Global Game Jam.",
+    "portfolio": "A personal portfolio website showcasing my projects and skills.",
+    "crazy_bus": "A prototype of a bus time-attack game developed in Unreal Engine 4.",
+    "rooms_of_mystery": "A level-based escape room game developed in Unreal Engine 4.",
+    "forgotten_shrine": "A roguelike dungeon-crawler that uses procedural generation, focusing on difficulty and the number of monsters in each room.",
+    "by_a_thread": "A GBStudio game developed for a class project in the Undergraduate Games and Multimedia course.",
+    "fools_frenzy": "A project that was initially developed for the 48-hour 2024 Global Game Jam.",
+    "stray_friends": "An animal rescue and adoption website built for a local animal shelter during the Higher Technological Course in Web and Multimedia.",
+    
+    "music_education": "Music Education",
+    "learned_instrument": "Learned how to play an instrument",
+    "participated_chorus": "Participated in a chorus",
+    "engaged_music": "Engaged in many other music-related activities",
+    
+    "informatics_scientific_course": "Informatics Scientific-Technological Course",
+    "web_programming": "Web Programming",
+    "programming": "Programming",
+    "it_applications": "IT Applications",
+    "communication_networks": "Communication Networks",
+    "computer_architecture": "Computer architecture",
+    
+    "waiter": "Waiter",
+    "waiter_description": "Served customers, cleaned tables, and helped in the kitchen. Learned how to work under pressure and developed communication skills.",
+    
+    "construction_worker_technician": "Construction Worker & Computer Technician",
+    "construction_worker_technician_description": "Worked a part-time summer job as a construction worker developing skills such as communication and teamwork. Also worked with maintenance of the computer systems, cameras, and heavy equipment of the company. Worked full-time the last 5 months of 2024 in which I made full utilization of problem-solving skills allowing me to work under pressure.",
+    
+    "computer_technician": "Computer Technician",
+    "computer_technician_description": "Provided technical support and maintenance for computer systems and networks.",
+    
+    "higher_technological_course": "Higher Technological Course in Web and Multimedia",
+    "web_server_programming": "Web Server Programming",
+    "digital_marketing": "Digital Marketing and Social Web",
+    "video_editing": "Video Editing and Post Production",
+    
+    "web_designer_developer": "Web Designer & Developer",
+    "web_designer_developer_description": "Internship creating the company’s merchandise and website with front-end and back-end development using Laravel and PHP. Developed design skills with various mockups of t-shirts, pens, notebooks, etc.",
+    
+    "undergraduate_games_multimedia": "Undergraduate in Games and Multimedia",
+    "game_programming": "Game Programming",
+    "game_engines": "Game Engines",
+    "user_interface_design": "User Interface Design",
+    "ai_applied_to_games": "Artificial Intelligence Applied to Games",
+    "advanced_game_programming": "Advanced Game Programming Topics",
+
+    "Languages": {
+        "PT": "Portuguese (Native)",
+        "EN": "English (Fluent C1)",
+        "ES": "Spanish (Intermediate B1)"
+    },
+    "Soft_Skills": {
+        "Communication": "Communication",
+        "Teamwork": "Teamwork",
+        "Problem_Solving": "Problem Solving",
+        "Creativity": "Creativity",
+        "Adaptability": "Adaptability"
+    },
+    "categories": {
+        "Languages": "Languages",
+        "Frameworks": "Frameworks",
+        "Game_Engines": "Game_Engines",
+        "Soft_Skills": "Soft_Skills",
+        "Software": "Software",
+        "Programming_Languages": "Programming_Languages"
+    }
+  }
+  
+  

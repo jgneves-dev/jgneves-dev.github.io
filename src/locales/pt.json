@@ -1,0 +1,103 @@
+{
+    "home": "início",
+    "projects": "projetos",
+    "about-me": "sobre-mim",
+    "career": "carreira",
+    "skills": "habilidades",
+    "footer_desc": "Apaixonado por desenvolvimento de software, desenvolvimento de jogos e resolução criativa de problemas.",
+    
+    "name_placeholder": "Nome",
+    "email_placeholder": "Email",
+    "message_placeholder": "Mensagem",
+    "all_rights_reserved": "Todos os direitos reservados.",
+
+    "is_a": "é",
+    "gameplay": "gameplay",
+    "and": "e",
+    "AI": "IA",
+    "programmer_comma_a": "programador, um",
+    "web": "web",
+    "designer_and_a": "designer e",
+    "front-end": "front-end",
+    "developer": "desenvolvedor",
+    "hero_image_alt": "Ilustração de herói representando desenvolvimento e design",
+    
+    "contact_me": "contate-me",
+    "status": "aberto a novas oportunidades",
+    "view_more": "ver mais",
+    "submit": "enviar",
+    "contact_title": "vamos trabalhar juntos",
+    "contact_desc": "Atualmente estou interessado em qualquer oferta de emprego ou oportunidade de colaboração. Não hesite em entrar em contato!",
+    
+    "about_p1": "Como estudante de Jogos e Multimédia no Instituto Politécnico de Leiria, sou apaixonado por criar aplicações e jogos interativos e envolventes.",
+    "about_p2": "Completou um curso superior de Desenvolvimento Web e Multimédia, onde aprendeu a utilizar várias ferramentas e tecnologias, como Bootstrapping, Weebly, HTML, CSS, JavaScript e PHP.",
+    "about_p3": "Desenvolvi alguns projetos que mostram as minhas competências e criatividade no desenvolvimento de sites e jogos. Estou entusiasmado para aplicar os meus conhecimentos e competências em ambientes reais e para colaborar com outros profissionais e especialistas da área. Atualmente estou muito interessado na programação de IA em jogos.",
+    "about_p4": "Estou sempre disposto a aprender coisas novas e a desafiar-me. O meu objetivo é tornar-me um desenvolvedor de jogos e especialista em multimédia competente e versátil, que possa contribuir para a inovação e excelência da indústria.",
+    
+    "bubblenaut": "Um jogo de plataforma 2D criado para a Global Game Jam 2025 em 48 horas.",
+    "portfolio": "Site pessoal de portfólio, apresentando os meus projetos e habilidades.",
+    "crazy_bus": "Protótipo de um jogo de ataque de tempo em autocarro desenvolvido no Unreal Engine 4.",
+    "rooms_of_mystery": "Um jogo de fuga baseado em níveis desenvolvido no Unreal Engine 4.",
+    "forgotten_shrine": "Um jogo roguelike de masmorras que usa geração procedural, com foco na dificuldade e na quantidade de monstros em cada sala.",
+    "by_a_thread": "Um jogo feito em GBStudio, desenvolvido para um projeto de turma no curso de Licenciatura em Jogos e Multimédia.",
+    "fools_frenzy": "Um projeto inicialmente desenvolvido para a Global Game Jam 2024 em 48 horas.",
+    "stray_friends": "Website de resgatar e adotar animais, criado para um abrigo local, durante o Curso Tecnológico Superior em Web e Multimédia.",
+    
+    "music_education": "Educação Musical",
+    "learned_instrument": "Aprendi a tocar um instrumento",
+    "participated_chorus": "Participei no coro",
+    "engaged_music": "Participei de várias outras atividades relacionadas à música",
+    
+    "informatics_scientific_course": "Curso Científico-Tecnológico de Informática",
+    "web_programming": "Programação Web",
+    "programming": "Programação",
+    "it_applications": "Aplicações de TI",
+    "communication_networks": "Redes de Comunicação",
+    "computer_architecture": "Arquitetura de Computadores",
+    
+    "waiter": "Empregado de mesa",
+    "waiter_description": "Atendi clientes, limpei mesas e ajudei na cozinha. Aprendi a trabalhar sob pressão e desenvolvi habilidades de comunicação.",
+    
+    "construction_worker_technician": "Trabalhador de Construção e Técnico de Informática",
+    "construction_worker_technician_description": "Trabalhei a tempo parcial como trabalhador de construção, desenvolvendo habilidades como comunicação e trabalho em equipe. Também trabalhei com manutenção dos sistemas informáticos, câmeras e equipamentos pesados da empresa. Trabalhei a tempo inteiro nos últimos 5 meses de 2024, aplicando habilidades de resolução de problemas que me permitiram trabalhar sob pressão.",
+    
+    "computer_technician": "Técnico de Informática",
+    "computer_technician_description": "Forneci suporte técnico e manutenção para sistemas informáticos e redes.",
+    
+    "higher_technological_course": "Curso Tecnológico Superior em Web e Multimédia",
+    "web_server_programming": "Programação de Servidores Web",
+    "digital_marketing": "Marketing Digital e Web Social",
+    "video_editing": "Edição de Vídeo e Pós-Produção",
+    
+    "web_designer_developer": "Web Designer e Desenvolvedor",
+    "web_designer_developer_description": "Estágio criando produtos da empresa e o site com desenvolvimento front-end e back-end usando Laravel e PHP. Desenvolvi habilidades de design com vários protótipos de camisetas, canetas, cadernos, etc.",
+    
+    "undergraduate_games_multimedia": "Licenciatura em Jogos e Multimédia",
+    "game_programming": "Programação de Jogos",
+    "game_engines": "Motores de Jogos",
+    "user_interface_design": "Design de Interfaces",
+    "ai_applied_to_games": "IA aplicada a jogos",
+    "advanced_game_programming": "Programação Avançada de Jogos",
+
+    "Languages": {
+        "PT": "Português (Nativo)",
+        "EN": "Inglês (Fluente C1)",
+        "ES": "Espanhol (Intermediário B1)"
+      },
+      "Soft_Skills": {
+        "Communication": "Comunicação",
+        "Teamwork": "Trabalho em Equipe",
+        "Problem_Solving": "Resolução de Problemas",
+        "Creativity": "Criatividade",
+        "Adaptability": "Adaptabilidade"
+      },
+      "categories": {
+        "Languages": "Idiomas",
+        "Frameworks": "Frameworks",
+        "Game_Engines": "Motores_de_Jogo",
+        "Soft_Skills": "Habilidades_Pessoais",
+        "Software": "Software",
+        "Programming_Languages": "Linguagens_de_Programação"
+      }
+  }
+  

@@ -1,0 +1,103 @@
+{
+    "home": "inicio",
+    "projects": "proyectos",
+    "about-me": "sobre-mí",
+    "career": "carrera",
+    "skills": "habilidades",
+    "footer_desc": "Pasión por el desarrollo de software, el desarrollo de juegos y la resolución de problemas creativos.",
+    "name_placeholder": "Nombre",
+    "email_placeholder": "Correo electrónico",
+    "message_placeholder": "Mensaje",
+    "all_rights_reserved": "Todos los derechos reservados.",
+
+    "is_a": "es",
+    "programador_de": "programador de",
+    "gameplay": "jugabilidad",
+    "and": "y",
+    "AI": "IA",
+    "programmer_comma_a": ",",
+    "web": "web",
+    "designer_and_a": "diseñador",
+    "front-end": "front-end",
+    "developer": "y desarrollador",
+    "hero_image_alt": "Ilustración de héroe representando desarrollo y diseño",
+    
+    "contact_me": "contácteme",
+    "status": "abierto a nuevas oportunidades",
+    "view_more": "ver más",
+    "submit": "enviar",
+    "contact_title": "vamos a trabajar juntos",
+    "contact_desc": "Actualmente estoy interesado en cualquier oferta de trabajo o oportunidad de colaborar. ¡No dudes en comunicarte!",
+    
+    "about_p1": "Como licenciado en Juegos y Multimedia en el Politécnico de Leiria, me apasiona crear aplicaciones web y juegos atractivos e interactivos.",
+    "about_p2": "He completado un curso de formación profesional en Desarrollo Web y Multimedia, donde aprendí a utilizar varias herramientas y tecnologías, como Bootstrapping, Weebly, HTML, CSS, JavaScript y PHP.",
+    "about_p3": "También he desarrollado algunos proyectos que demostran mi habilidad y creatividad en el desarrollo web y juegos. Estoy ansiosos para aplicar mis habilidades y competencias en situaciones reales y para colaborar con otros profesionales y expertos en el campo. Actualmente estoy muy interesado en la programación de IA en videojuegos.",
+    "about_p4": "Siempre estoy dispuesto a aprender cosas nuevas y a desafiarme. Mi objetivo es convertirme en un especialista y versátil desarrollador de juegos y multimedia profesional, que pueda contribuir a la innovación y excelencia de la industria.",
+    
+    "bubblenaut": "Un juego de plataformas 2D creado para la Global Game Jam 2025 en 48 horas.",
+    "portfolio": "Un sitio web de portafolio personal que muestra mis proyectos y habilidades.",
+    "crazy_bus": "Un prototipo de un juego de ataque al tiempo en autobús desarrollado en Unreal Engine 4.",
+    "rooms_of_mystery": "Un juego de escape basado en niveles, desarrollado en Unreal Engine 4.",
+    "forgotten_shrine": "Un juego roguelike de mazmorras que utiliza generación procedural, enfocándose en la dificultad y la cantidad de monstruos en cada sala.",
+    "by_a_thread": "Un juego en GBStudio desarrollado para un proyecto de clase en el curso de Grado en Juegos y Multimedia.",
+    "fools_frenzy": "Un proyecto desarrollado inicialmente para la Global Game Jam 2024 en 48 horas.",
+    "stray_friends": "Un sitio web de rescate y adopción de animales creado para un refugio local durante el Curso Tecnológico Superior en Web y Multimedia.",
+    
+    "music_education": "Educación musical",
+    "learned_instrument": "Aprendí a tocar un instrumento",
+    "participated_chorus": "Participé en un coro",
+    "engaged_music": "Participé en muchas otras actividades relacionadas con la música",
+    
+    "informatics_scientific_course": "Curso Científico-Tecnológico en Informática",
+    "web_programming": "Programación Web",
+    "programming": "Programación",
+    "it_applications": "Aplicaciones de TI",
+    "communication_networks": "Redes de comunicación",
+    "computer_architecture": "Arquitectura de computadoras",
+    
+    "waiter": "Camarero",
+    "waiter_description": "Serví a los clientes, limpié mesas y ayudé en la cocina. Aprendí a trabajar bajo presión y desarrollé habilidades de comunicación.",
+    
+    "construction_worker_technician": "Trabajador de construcción y técnico informático",
+    "construction_worker_technician_description": "Trabajé a tiempo parcial como obrero de construcción desarrollando habilidades como la comunicación y el trabajo en equipo. También trabajé en el mantenimiento de los sistemas informáticos, cámaras y equipos pesados de la empresa. Trabajé a tiempo completo durante los últimos 5 meses de 2024, en los cuales utilicé habilidades de resolución de problemas que me permitieron trabajar bajo presión.",
+    
+    "computer_technician": "Técnico informático",
+    "computer_technician_description": "Brindé soporte técnico y mantenimiento para sistemas informáticos y redes.",
+    
+    "higher_technological_course": "Curso Tecnológico Superior en Web y Multimedia",
+    "web_server_programming": "Programación de servidores web",
+    "digital_marketing": "Marketing digital y web social",
+    "video_editing": "Edición de video y postproducción",
+    
+    "web_designer_developer": "Diseñador y desarrollador web",
+    "web_designer_developer_description": "Prácticas creando productos de la empresa y el sitio web con desarrollo front-end y back-end usando Laravel y PHP. Desarrollé habilidades de diseño con varios prototipos de camisetas, bolígrafos, cuadernos, etc.",
+    
+    "undergraduate_games_multimedia": "Licenciatura en Juegos y Multimedia",
+    "game_programming": "Programación de juegos",
+    "game_engines": "Motores de juegos",
+    "user_interface_design": "Diseño de interfaz de usuario",
+    "ai_applied_to_games": "IA aplicada a juegos",
+    "advanced_game_programming": "Temas avanzados en programación de juegos",
+
+    "Languages": {
+        "PT": "Portugués (Nativo)",
+        "EN": "Inglés (Fluido C1)",
+        "ES": "Español (Intermedio B1)"
+      },
+      "Soft_Skills": {
+        "Communication": "Comunicación",
+        "Teamwork": "Trabajo en Equipo",
+        "Problem_Solving": "Resolución de Problemas",
+        "Creativity": "Creatividad",
+        "Adaptability": "Adaptabilidad"
+      },
+      "categories": {
+        "Languages": "Idiomas",
+        "Frameworks": "Frameworks",
+        "Game_Engines": "Motores_de_Juego",
+        "Soft_Skills": "Habilidades_Personales",
+        "Software": "Software",
+        "Programming_Languages": "Lenguajes_de_Programación"
+      }
+  }
+  

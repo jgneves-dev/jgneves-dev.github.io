@@ -1,0 +1,87 @@
+/* Projects Section Styles */
+.projects {
+  padding: 40px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 40px;
+}
+
+.title {
+  font: 700 32px Consolas, sans-serif;
+  color: #f0f0f0;
+  position: relative;
+  display: inline-block;
+}
+
+.accent {
+  color: #EF9940;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.projectCard {
+  background-color: #333;
+  border: 10px solid #f0f0f0;
+  padding: 20px;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 2px solid #f0f0f0; /* Add border-bottom */
+}
+
+.projectCard:hover {
+  background-color: #4400a1;
+}
+
+.projectImage {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.projectTitle {
+  font: 700 24px Consolas, sans-serif;
+  color: #f0f0f0;
+  margin-bottom: 10px;
+}
+
+.projectLanguages {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.projectLanguage {
+  color: #f0f0f0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.projectDescription {
+  color: #a4a4a4;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.viewMore {
+  text-decoration: underline;
+  color: #f0f0f0;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  display: block;
+  transition: all 0.2s ease;
+  margin: 20px 0;
+}

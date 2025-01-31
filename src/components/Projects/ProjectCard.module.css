@@ -1,0 +1,67 @@
+.card {
+  background-color: #1f1f1f;
+  border: 2px solid #a4a4a4;
+  height: auto;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  border-radius: 0;
+}
+
+.cardImage {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid #a4a4a4;
+}
+
+.languages {
+  font-size: 1rem;
+  color: #a4a4a4;
+  margin-top: 0;
+  padding: 8px 10px;
+  border-bottom: 1px solid #a4a4a4;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  flex-grow: 1;
+  padding: 8px;
+}
+
+.title {
+  font-size: 1.5rem;
+  color: #f0f0f0;
+  font-weight: bold;
+  margin: 0;
+  padding: 10px 8px 8px 8px;
+}
+
+.description {
+  font-size: 1rem;
+  color: #a4a4a4;
+  margin: 8px 0 14px 0;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.viewMore {
+  color: #EF9940;
+  margin-right: auto;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: auto;
+  border: #a4a4a4 solid 2px;
+  transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.viewMore:hover {
+  border-color: #EF9940;
+  color: #f0f0f0;
+}

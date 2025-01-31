@@ -1,0 +1,97 @@
+.contact {
+  padding: 40px 20px;
+  background-color: rgba(31, 31, 31, 1);
+  color: rgba(240, 240, 240, 1);
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.title {
+  font: 700 32px Consolas, sans-serif;
+  color: #f0f0f0;
+  position: relative;
+  display: inline-block;
+}
+
+.accent {
+  color: #EF9940;
+}
+
+.description {
+  font: 400 16px Consolas, sans-serif;
+  margin: 16px 0px 24px 0px;
+  color: #a4a4a4;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.inputGroup {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.input,
+.textarea {
+  flex: 1;
+  background-color: rgba(31, 31, 31, 1);
+  border: 2px solid #f0f0f0;
+  padding: 12px;
+  font: 400 16px Consolas, sans-serif;
+  color: #f0f0f0;
+  outline: none;
+  border-radius: 0; /* Remove border radius */
+}
+
+/* Autofill Fix */
+.input:-webkit-autofill,
+.textarea:-webkit-autofill {
+  background-color: rgba(50, 50, 50, 1) !important; /* Adjust background color */
+  color: #f0f0f0 !important; /* Adjust text color */
+  -webkit-text-fill-color: #f0f0f0 !important; /* Ensure text color */
+  box-shadow: 0 0 0px 1000px rgba(50, 50, 50, 1) inset !important; /* Prevent white background */
+}
+
+/* Focus Styles */
+.input:focus,
+.textarea:focus {
+  border-color: #EF9940; /* Highlight border on focus */
+  background-color: rgba(40, 40, 40, 1); /* Slightly darker background on focus */
+}
+
+/* Textarea Specific */
+.textarea {
+  min-height: 120px;
+  resize: none;
+  overflow: hidden;
+  transition: height 0.2s ease;
+  width: 100%;
+}
+
+/* Submit Button */
+.submit {
+  background-color: transparent;
+  color: #ef9940;
+  padding: 12px 24px;
+  font-size: 16px;
+  border: 2px solid #f0f0f0;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-weight: bold;
+  margin-top: 24px;
+  margin-bottom: 48px;
+  max-width: 250px;
+  align-self: flex-start;
+}
+
+.submit:hover {
+  background-color: #ef9940;
+  color: #1f1f1f;
+  border-color: #ef9940;
+}
