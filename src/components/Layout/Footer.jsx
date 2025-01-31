@@ -4,6 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import { useTranslation } from 'react-i18next';
+import logoImage from '../../assets/logo.png';
 
 export const Footer = () => {
   const { t } = useTranslation();
@@ -13,7 +14,7 @@ export const Footer = () => {
         
         {/* Left: Logo & Name */}
         <div className={styles.brand}>
-          <img src="../../assets/logo.png" alt="Joao Neves logo" className={styles.logo} />
+          <img src={logoImage} alt="Joao Neves logo" className={styles.logo} />
           <h2 className={styles.name}>João Neves</h2>
         </div>
 

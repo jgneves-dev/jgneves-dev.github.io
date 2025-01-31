@@ -1,19 +1,20 @@
 import React from 'react';
 import styles from './Hero.module.css';
-import { useTranslation } from 'react-i18next'; // Import translation hook
+import { useTranslation } from 'react-i18next';
+import heroImage from '../../assets/hero-image.png';
+
 
 export const Hero = () => {
-  const { t, i18n } = useTranslation(); // Get translation function (t) and i18n instance
+  const { t, i18n } = useTranslation();
 
   const scrollToContact = () => {
     const contactSection = document.querySelector("#contact");
     contactSection.scrollIntoView({
-      behavior: "smooth", // Ensures smooth scrolling
-      block: "start", // Align the target at the top of the view
+      behavior: "smooth",
+      block: "start",
     });
   };
 
-  // Sentence structure for different languages
   const sentenceStructure = {
     en: [
       t('is_a'),
@@ -55,7 +56,7 @@ export const Hero = () => {
       <div className={styles.heroContent}>
         <img
           loading="lazy"
-          src="../../assets/hero-image.png"
+          src={heroImage}
           className={styles.heroImage}
           alt={t('hero_image_alt')}
         />

@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useTranslation } from 'react-i18next';
 import styles from './Navigation.module.css';
+import logoImage from '../../assets/logo.png';
 
 export const Navigation = () => {
   const { t, i18n } = useTranslation();
@@ -49,7 +50,7 @@ export const Navigation = () => {
     <nav className={`${styles.navigation} container`} role="navigation" aria-label="Main navigation">
       <img
         loading="lazy"
-        src="../../assets/logo.png"
+        src={logoImage}
         className={styles.logo}
         alt="Portfolio logo"
         onClick={() => scrollToSection('home')}
