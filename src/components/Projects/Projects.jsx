@@ -3,61 +3,70 @@ import styles from './Projects.module.css';
 import { ProjectCard } from './ProjectCard';
 import { useTranslation } from 'react-i18next';
 
+import bubblenautImage from "../src/assets/bn-thumb.png";
+import portfolioImage from "../src/assets/hero-image.png";
+import crazybusImage from "../src/assets/cb-thumb.png";
+import roomsofmysteryImage from "../src/assets/rom-thumb.png";
+import forgottenshrineImage from "../src/assets/fs-thumb.png";
+import byathreadImage from "../src/assets/bat-thumb.png";
+import foolsfrenzyImage from "../src/assets/ff-thumb.png";
+import strayfriendsImage from "../src/assets/sf-thumb.png";
+
 export const Projects = () => {
   const { t } = useTranslation();
 
   const projects = [
     {
-      image: '${import.meta.env.BASE_URL}assets/bn-thumb.png',
+      image: bubblenautImage,
       languages: ["C#", "Unity 6"],
       title: "Bubblenaut",
       description: t('bubblenaut'),
       viewMoreUrl: "https://bigoddstudios.itch.io/bubblenaut"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/hero-image.png',
+      image: portfolioImage,
       languages: ["JavaScript", "React", "CSS", "HTML"],
       title: "Portfolio",
       description: t('portfolio'),
       viewMoreUrl: "https://jgneves-dev.github.io/"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/cb-thumb.png',
+      image: crazybusImage,
       languages: ["C++", "Unreal Engine 4"],
       title: "Crazy Bus!",
       description: t('crazy_bus'),
       viewMoreUrl: "https://crazybus-finalproject.itch.io/crazy-bus"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/rom-thumb.png',
+      image: roomsofmysteryImage,
       languages: ["C++, Unreal Engine 4"],
       title: "Rooms of Mystery",
       description: t('rooms_of_mystery'),
       viewMoreUrl: "https://coffecatgames.itch.io/rooms-of-mystery"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/fs-thumb.png',
+      image: forgottenshrineImage,
       languages: ["C#", "Unity"],
       title: "Forgotten Shrine",
       description: t('forgotten_shrine'),
       viewMoreUrl: "https://edgypress-studio.itch.io/forgotten-shrine"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/bat-thumb.png',
+      image: byathreadImage,
       languages: ["GBStudio"],
       title: "By a Thread",
       description: t('by_a_thread'),
       viewMoreUrl: "https://tomous.itch.io/by-a-thread"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/ff-thumb.png',
+      image: foolsfrenzyImage,
       languages: ["C#", "Unity"],
       title: "Fool's Frenzy",
       description: t('fools_frenzy'),
       viewMoreUrl: "https://edgypress-studio.itch.io/fools-frenzy"
     },
     {
-      image: '${import.meta.env.BASE_URL}assets/sf-thumb.png',
+      image: strayfriendsImage,
       languages: ["HTML", "CSS", "JavaScript", "PHP", "MySQL", "Bootstrap", "Weebly"],
       title: "Stray Friends",
       description: t('stray_friends'),
