@@ -3,6 +3,7 @@ import styles from './Projects.module.css';
 import { ProjectCard } from './ProjectCard';
 import { useTranslation } from 'react-i18next';
 
+const compactbaseImage = "/assets/compactbase-thumb.png";
 const bubblenautImage = "/assets/bn-thumb.png";
 const portfolioImage = "/assets/hero-image.png";
 const crazybusImage = "/assets/cb-thumb.png";
@@ -17,6 +18,13 @@ export const Projects = () => {
 
   const projects = [
     {
+      image: compactbaseImage,
+      languages: ["React", "TypeScript", "Vite", "CSS", "HTML"],
+      title: "Compactbase Landing Page",
+      description: t('compactbase'),
+      viewMoreUrl: "https://jgneves-dev.github.io/compactbase/"
+    },
+    {
       image: bubblenautImage,
       languages: ["C#", "Unity 6"],
       title: "Bubblenaut",
@@ -25,7 +33,7 @@ export const Projects = () => {
     },
     {
       image: portfolioImage,
-      languages: ["JavaScript", "React", "CSS", "HTML"],
+      languages: ["React", "JavaScript", "Vite", "CSS", "HTML"],
       title: "Portfolio",
       description: t('portfolio'),
       viewMoreUrl: "https://jgneves-dev.github.io/"
