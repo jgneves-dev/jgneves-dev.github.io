@@ -3,6 +3,7 @@ import styles from './Projects.module.css';
 import { ProjectCard } from './ProjectCard';
 import { useTranslation } from 'react-i18next';
 
+const basecrudpostsImage = "/assets/bcp-thumb.png";
 const compactbaseImage = "/assets/compactbase-thumb.png";
 const bubblenautImage = "/assets/bn-thumb.png";
 const portfolioImage = "/assets/hero-image.png";
@@ -17,6 +18,20 @@ export const Projects = () => {
   const { t } = useTranslation();
 
   const projects = [
+    {
+      image: basecrudpostsImage,
+      languages: ["PHP", "CSS", "Bootstrap", "Twig", "HTML", "MySQL", "Composer"],
+      title: "Base CRUD Posts",
+      description: t('base_crud_posts'),
+      viewMoreUrl: "https://github.com/jgneves-dev/base-crud"
+    },
+    {
+      image: compactbaseImage,
+      languages: ["React", "TypeScript", "Vite", "CSS", "HTML"],
+      title: "Compactbase Landing Page",
+      description: t('compactbase'),
+      viewMoreUrl: "https://jgneves-dev.github.io/compactbase/"
+    },
     {
       image: compactbaseImage,
       languages: ["React", "TypeScript", "Vite", "CSS", "HTML"],
